@@ -3,7 +3,7 @@
 
 The 4 bit ALU (Arithmetic Logic Unit) has 2 inputs of 4 bits for each operand, 1 input of 3 bits to select the operational mode, 1 output of 8 bits with the result of the selected operation and 2 outputs of 1 bit each to identify an overflow or zero.
 
-#How to test?
+##How to test?
 
 To test the design, the operation codes are: 
 
